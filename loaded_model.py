@@ -1,4 +1,4 @@
-# Zadanie 3.3 model wczytuje się poprawnie, aczkolwiek, przez przeuczenie na poprzednim zbiorze, jego wyniki są mierne.
+# Zadanie 3.2 model wczytuje się poprawnie, aczkolwiek, przez przeuczenie na poprzednim zbiorze, jego wyniki są mierne.
 import sklearn
 import pickle
 
