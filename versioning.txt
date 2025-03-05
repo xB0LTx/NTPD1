@@ -1,0 +1,3 @@
+Only create a new version branch if you change the model hyperparameters or the training data.
+ If you change the hyperparameters, increase the number before the decimal point.
+ If you change the training data, increase the number after the decimal point.
